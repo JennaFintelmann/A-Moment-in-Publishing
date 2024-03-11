@@ -9,7 +9,7 @@ This is a readme file for a test unit project for University of Wisconsin-Green 
   
 <p>For my next book, whatever or whenever I might publish it, I’d like to go the route of getting an agent. And to have someone as passionate as publishing my work as me. </p>
 
-<img src="https://thumbs.dreamstime.com/b/book-falling-letters-23727380.jpg" width=100;height=100>
+<img src="https://thumbs.dreamstime.com/b/book-falling-letters-23727380.jpg" >
 
 <blockquote>"Description begins in the writer's imagination, but should finish in the reader's"</blockquote>
 <blockquote> -Stephen King</blockquote>
